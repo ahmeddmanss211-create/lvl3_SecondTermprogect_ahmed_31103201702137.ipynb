@@ -1,0 +1,10 @@
+# Ethics Reflection
+
+## Why is it important to verify data collected from public APIs?
+It is important to verify API data to ensure that it is accurate, complete, and reliable before using it for analysis.
+
+## Why should data analysts document the source of their data?
+Data analysts should document the data source to make the analysis transparent, traceable, and reproducible.
+
+## How can missing or inaccurate data affect data analysis and decision-making?
+Missing or inaccurate data can lead to incorrect results, misleading insights, and poor decision-making.
